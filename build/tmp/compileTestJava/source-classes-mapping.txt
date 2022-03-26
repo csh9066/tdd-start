@@ -1,0 +1,6 @@
+chap02/PasswordStrengthMeterTest.java
+ chap02.PasswordStrengthMeterTest
+chap03/ExpiryDateCalculator.java
+ chap03.ExpiryDateCalculator
+chap03/ExpiryDateCalculatorTest.java
+ chap03.ExpiryDateCalculatorTest

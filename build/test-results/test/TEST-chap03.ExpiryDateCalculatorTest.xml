@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="chap03.ExpiryDateCalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-03-26T06:00:49" hostname="DESKTOP-MC5IR2K" time="0.03">
+  <properties/>
+  <testcase name="납부이리과_한달_뒤_일자가_같지_않음()" classname="chap03.ExpiryDateCalculatorTest" time="0.028"/>
+  <testcase name="만원_납부하면_한달_뒤가_만료일이_됨()" classname="chap03.ExpiryDateCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
